@@ -13,8 +13,8 @@ This project demonstrates a simple retrieval-augmented generation (RAG) applicat
 ´´´´shell
 poetry env use .venv  # Use a specific virtual environment name if desired
 poetry install
-
 ´´´´
+
 3. Set Environment Variables:
 
 - OPENAI_API_KEY: Your OpenAI API key.
