@@ -27,9 +27,9 @@ poetry install
 1. Start LLM Studio: Ensure your LLM Studio server is running.
 2. Run the Script: Execute the main Python script:
 
-´´´´shell
+'''shell
 python rag_studio/main.py
-´´´´
+
 
 This will launch a Gradio chat interface in your web browser.
 
